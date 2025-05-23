@@ -1,3 +1,4 @@
+![alt text](image_url "optional title")
 # Virtual Pet Game
 
 A delightful virtual pet simulation game developed with Python and Tkinter. Adopt and care for your own virtual pet in this interactive experience.
