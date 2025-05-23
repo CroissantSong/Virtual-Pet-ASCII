@@ -1,5 +1,6 @@
-<img src="virtual_pet.png" alt="Virtual Pet" width="400" height="400">
 # Virtual Pet Game
+
+<img src="virtual_pet.png" alt="Virtual Pet" width="400" height="400">
 
 A delightful virtual pet simulation game developed with Python and Tkinter. Adopt and care for your own virtual pet in this interactive experience.
 
