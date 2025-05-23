@@ -1,4 +1,4 @@
-![alt text](image_url "optional title")
+![Virtual Pet](virtual_pet.png "Virtual Pet")
 # Virtual Pet Game
 
 A delightful virtual pet simulation game developed with Python and Tkinter. Adopt and care for your own virtual pet in this interactive experience.
