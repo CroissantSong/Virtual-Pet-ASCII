@@ -1,0 +1,17 @@
+{
+  "pet": {
+    "name": "AAA",
+    "species": "Dog",
+    "gender": "Male",
+    "hunger": 70,
+    "happiness": 55,
+    "health": 100,
+    "age": 1,
+    "alive": true,
+    "neutered": false,
+    "stamina": 12
+  },
+  "current_day": 1,
+  "current_week": 1,
+  "last_time": "2025-05-21 16:30:14"
+}
