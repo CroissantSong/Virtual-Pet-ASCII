@@ -1,4 +1,5 @@
 ![Virtual Pet](virtual_pet.png "Virtual Pet")
+<img src="virtual_pet.png" alt="Virtual Pet" width="150" height="100">
 # Virtual Pet Game
 
 A delightful virtual pet simulation game developed with Python and Tkinter. Adopt and care for your own virtual pet in this interactive experience.
